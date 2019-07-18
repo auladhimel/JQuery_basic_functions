@@ -1,0 +1,32 @@
+.container, .container1, .container2{
+
+	font-size: 20px;
+	padding: 30px;
+	background-color: #ddd;
+	text-align: center;
+
+}
+.panel, .panel2, .panel3{
+	font-size: 20px;
+	padding: 30px;
+	background-color: #eee;
+	text-align: center;
+
+}
+.functions{
+	margin-top: 90px;
+	text-align: center;
+}
+.fade{
+	margin-top: 100px;
+}
+.btn1{
+	margin-left: 500px;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+}
+h1,h2,h3,h4,{
+	margin-top: 40px;	
+}
